@@ -7,3 +7,8 @@ print(num3)
 name= "John"
 greeting= "Hello Mr. " + name
 print(greeting)
+#testing of the gitadd
+c=200
+d=300
+e= c+d
+print(e)
