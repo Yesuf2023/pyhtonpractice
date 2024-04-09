@@ -1,0 +1,33 @@
+﻿Year,location,Rep,trt,rotat,plot,crop,for,seedingdate,Biomasskgha
+1,MnUSDA,1,4,CG-NP-SB,101,Corn,Grain,137,27584
+1,MnUSDA,1,3,CG-PC-SB,102,Corn,Grain,137,21975
+1,MnUSDA,1,6,CS-NP-SB,103,Corn,Silage,137,25022
+1,MnUSDA,1,5,CS-PC-SB,104,Corn,Silage,137,25887
+1,MnUSDA,1,2,WG-NP-SB,105,Spring wheat,grain,137,7236
+1,MnUSDA,1,1,WG-PC-SB,106,Spring wheat,grain,137,6613
+1,MnUSDA,1,8,SG-NP-CG,107,Soybean,grain,139,4692
+1,MnUSDA,1,7,SG-PC-CG,108,Soybean,grain,139,4370
+1,MnUSDA,2,1,WG-PC-SB,201,Spring wheat,grain,137,6475
+1,MnUSDA,2,2,WG-NP-SB,202,Spring wheat,grain,137,7369
+1,MnUSDA,2,8,SG-NP-CG,203,Soybean,grain,139,6160
+1,MnUSDA,2,7,SG-PC-CG,204,Soybean,grain,139,4791
+1,MnUSDA,2,3,CG-PC-SB,205,Corn,Grain,137,16522
+1,MnUSDA,2,4,CG-NP-SB,206,Corn,Grain,137,21070
+1,MnUSDA,2,6,CS-NP-SB,207,Corn,Silage,137,23094
+1,MnUSDA,2,5,CS-PC-SB,208,Corn,Silage,137,25822
+1,MnUSDA,3,7,SG-PC-CG,301,Soybean,grain,139,5221
+1,MnUSDA,3,8,SG-NP-CG,302,Soybean,grain,139,4288
+1,MnUSDA,3,5,CS-PC-SB,303,Corn,Silage,137,25496
+1,MnUSDA,3,6,CS-NP-SB,304,Corn,Silage,137,23004
+1,MnUSDA,3,1,WG-PC-SB,305,Spring wheat,grain,137,5295
+1,MnUSDA,3,2,WG-NP-SB,306,Spring wheat,grain,137,5885
+1,MnUSDA,3,4,CG-NP-SB,307,Corn,Grain,137,17654
+1,MnUSDA,3,3,CG-PC-SB,308,Corn,Grain,137,20093
+1,MnUSDA,4,5,CS-PC-SB,401,Corn,Silage,137,22322
+1,MnUSDA,4,6,CS-NP-SB,402,Corn,Silage,137,27967
+1,MnUSDA,4,2,WG-NP-SB,403,Spring wheat,grain,137,6776
+1,MnUSDA,4,1,WG-PC-SB,404,Spring wheat,grain,137,5210
+1,MnUSDA,4,8,SG-NP-CG,405,Soybean,grain,139,3866
+1,MnUSDA,4,7,SG-PC-CG,406,Soybean,grain,139,5589
+1,MnUSDA,4,3,CG-PC-SB,407,Corn,Grain,137,18062
+1,MnUSDA,4,4,CG-NP-SB,408,Corn,Grain,137,20496
